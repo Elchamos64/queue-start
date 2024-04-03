@@ -1,0 +1,14 @@
+C:\Users\Oscar Ramos\Documents\queue-start\bin\Debug\net8.0\queue-start.exe
+C:\Users\Oscar Ramos\Documents\queue-start\bin\Debug\net8.0\queue-start.deps.json
+C:\Users\Oscar Ramos\Documents\queue-start\bin\Debug\net8.0\queue-start.runtimeconfig.json
+C:\Users\Oscar Ramos\Documents\queue-start\bin\Debug\net8.0\queue-start.dll
+C:\Users\Oscar Ramos\Documents\queue-start\bin\Debug\net8.0\queue-start.pdb
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\queue-start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\queue-start.AssemblyInfoInputs.cache
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\queue-start.AssemblyInfo.cs
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\queue-start.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\queue-start.dll
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\refint\queue-start.dll
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\queue-start.pdb
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\queue-start.genruntimeconfig.cache
+C:\Users\Oscar Ramos\Documents\queue-start\obj\Debug\net8.0\ref\queue-start.dll
