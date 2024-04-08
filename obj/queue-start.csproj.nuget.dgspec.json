@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oscar Ramos\\Documents\\queue-start\\queue-start.csproj": {}
+    "C:\\Users\\Oscar Ramos\\Documents\\queue-solution\\queue-start.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oscar Ramos\\Documents\\queue-start\\queue-start.csproj": {
+    "C:\\Users\\Oscar Ramos\\Documents\\queue-solution\\queue-start.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oscar Ramos\\Documents\\queue-start\\queue-start.csproj",
+        "projectUniqueName": "C:\\Users\\Oscar Ramos\\Documents\\queue-solution\\queue-start.csproj",
         "projectName": "queue-start",
-        "projectPath": "C:\\Users\\Oscar Ramos\\Documents\\queue-start\\queue-start.csproj",
+        "projectPath": "C:\\Users\\Oscar Ramos\\Documents\\queue-solution\\queue-start.csproj",
         "packagesPath": "C:\\Users\\Oscar Ramos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oscar Ramos\\Documents\\queue-start\\obj\\",
+        "outputPath": "C:\\Users\\Oscar Ramos\\Documents\\queue-solution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oscar Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config"

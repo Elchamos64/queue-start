@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("queue-start")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e309099dc377a7701f6e591f87c080243800c230")]
 [assembly: System.Reflection.AssemblyProductAttribute("queue-start")]
 [assembly: System.Reflection.AssemblyTitleAttribute("queue-start")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

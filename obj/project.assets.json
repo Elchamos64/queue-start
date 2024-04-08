@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oscar Ramos\\Documents\\queue-start\\queue-start.csproj",
-      "projectName": "queue-start",
-      "projectPath": "C:\\Users\\Oscar Ramos\\Documents\\queue-start\\queue-start.csproj",
+      "projectUniqueName": "C:\\Users\\Oscar Ramos\\Documents\\queue-solution\\queue-solution.csproj",
+      "projectName": "queue-solution",
+      "projectPath": "C:\\Users\\Oscar Ramos\\Documents\\queue-solution\\queue-solution.csproj",
       "packagesPath": "C:\\Users\\Oscar Ramos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oscar Ramos\\Documents\\queue-start\\obj\\",
+      "outputPath": "C:\\Users\\Oscar Ramos\\Documents\\queue-solution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oscar Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,4 +1,6 @@
-﻿public class Program
+﻿namespace queue_solution;
+
+public class Program
 {
     public static void Main(string[] args)
     {

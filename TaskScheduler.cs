@@ -1,5 +1,4 @@
-using System;
-using System.Collections.Generic;
+namespace queue_solution;
 
 public class TaskScheduler
 {

@@ -1,3 +1,5 @@
+namespace queue_solution;
+
 public class Task
 {
     public string Name { get; }
